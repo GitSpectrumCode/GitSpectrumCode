@@ -21,7 +21,8 @@
 </div>
 
 <h3>Redes Sociais</h3>
+<div>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="30"/>
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="120" height="30"/>
-        
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" width="110" height="30"/>
+</div>   
 
