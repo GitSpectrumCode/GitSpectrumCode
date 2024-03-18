@@ -15,7 +15,7 @@
 
 <br>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)" width="100" height="30"/>
-<img src="" width="100" height="30"/>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" width="100" height="30"/>
 <img src="" width="100" height="30"/>
 <img src="" width="100" height="30"/>
 </div>
