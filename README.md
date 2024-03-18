@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
+
+
 ### Ferramentas e Tecnologias:
 
 <div>
