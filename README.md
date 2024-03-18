@@ -1,8 +1,8 @@
 <h2> Olá! Venha acompanhar o desenvolvivemento do nosso projeto!</h2>
 
 <div>
-<img height="110em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
-<img height="110em"  align="center" src="https://github-readme-stats.vercel.app/api?username=GitSpectrumCode&show_icons=true&theme=radical"/>
+<img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
+<img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api?username=GitSpectrumCode&show_icons=true&theme=radical"/>
 </div>
 
 <h3>Ferramentas e Tecnologias</h3>
