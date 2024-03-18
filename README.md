@@ -4,7 +4,7 @@
 <img height="110em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
 
 
-### Ferramentas e Tecnologias:
+<h3>Ferramentas e Tecnologias:</h3>
 
 <div>
 
@@ -19,6 +19,9 @@
 <img src="" width="100" height="30"/>
 <img src="" width="100" height="30"/>
 </div>
+
+<h3>Redes Sociais</h3>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" height="30"/>
        
           
 
