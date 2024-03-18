@@ -2,6 +2,7 @@
 
 
 <img height="110em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=donut&show_icons=true&theme=radical)](https://github.com/GitSpectrumCode/github-readme-stats)
 
 
 <h3>Ferramentas e Tecnologias</h3>
