@@ -4,7 +4,7 @@
 <img height="110em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
 
 
-<h3>Ferramentas e Tecnologias:</h3>
+<h3>Ferramentas e Tecnologias</h3>
 
 <div>
 
