@@ -1,7 +1,7 @@
 <h2> Olá! Venha acompanhar o desenvolvivemento do nosso projeto!</h2>
 
 <div>
- <img src="https://github.com/GitSpectrumCode/GitSpectrumCode/assets/163693891/96a80e48-d369-4f80-9478-afbe6423f1b4"  width="600" height="300" >
+ <img src="https://github.com/GitSpectrumCode/GitSpectrumCode/assets/163693891/96a80e48-d369-4f80-9478-afbe6423f1b4"  width="620" height="300" >
 </div>
 
 <br>
