@@ -1,5 +1,7 @@
 <h2> Olá! Venha acompanhar o desenvolvivemento do nosso projeto!</h2>
 
+ <img src="https://github.com/GitSpectrumCode/GitSpectrumCode/assets/163693891/3fe02f70-9d6f-4629-b156-889ca25cc392" alt="Minha Figura">
+
 <div>
 <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
 <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api?username=GitSpectrumCode&show_icons=true&theme=radical"/>
@@ -7,7 +9,6 @@
 
 <h3>Ferramentas e Tecnologias</h3>
 
-<div>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="90" height="30"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="80" height="30"/>
