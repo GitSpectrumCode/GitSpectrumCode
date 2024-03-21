@@ -1,6 +1,6 @@
 <h2> Olá! Venha acompanhar o desenvolvivemento do nosso projeto!</h2>
 
- <img src="https://github.com/GitSpectrumCode/GitSpectrumCode/assets/163693891/3fe02f70-9d6f-4629-b156-889ca25cc392" alt="Minha Figura"  width="90" height="30" >
+ <img src="https://github.com/GitSpectrumCode/GitSpectrumCode/assets/163693891/3fe02f70-9d6f-4629-b156-889ca25cc392" alt="Minha Figura"  width="190" height="160" >
 
 <div>
 <img height="130em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitSpectrumCode&layout=compact&langs_count=7&theme=react" />
